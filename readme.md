@@ -30,13 +30,6 @@ Bu uygulama, Flutter öğrenenlerin HTTP istekleri, JSON ayrıştırma, durum y�
 2. `pub get` komutuyla gerekli paketleri yükleyin.
 3. Uygulamayı çalıştırın.
 
-**Ek Bilgiler:**
-
-* Bu proje, Flutter öğrenenler için basit bir örnek olarak tasarlanmıştır.
-* Daha fazla özellik eklemek ve uygulamayı geliştirmek mümkündür.
-* REST Countries API dokümantasyonu için: [https://restcountries.com/](https://restcountries.com/)
-* Flutter hakkında daha fazla bilgi için: [https://flutter.dev/](https://flutter.dev/)
-
 # ENG
 # Countries App - Flutter
 
@@ -69,10 +62,4 @@ This app is designed to help Flutter learners understand basic concepts such as 
 2. Run `pub get` to install the required packages.
 3. Run the application.
 
-**Additional Information:**
-
-* This project is designed as a simple example for Flutter learners.
-* It is possible to add more features and improve the application.
-* For REST Countries API documentation: [https://restcountries.com/](https://restcountries.com/)
-* For more information about Flutter: [https://flutter.dev/](https://flutter.dev/)
 
